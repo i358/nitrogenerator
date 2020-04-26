@@ -1,0 +1,3 @@
+Eğer windows kullanıyorsanız Bilgisayarınızda Python 3 kurulu olmalıdır.
+Kodu sistem ile simule etmek için Çalıştır adındaki dosyaya çift tıklayın.
+'mainc.exe' kaynak dosyası yoksa çalıştıramayabilirsiniz.
